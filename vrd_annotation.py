@@ -1,7 +1,7 @@
 import json
 
 
-image_directory = "model_data/sg_dataset/sg_train_images/"
+image_directory = "/floyd/input/sg_dataset/sg_train_images/"
 
 
 def format_boxes(objects):
